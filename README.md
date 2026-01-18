@@ -1,5 +1,6 @@
 # Sierpinski Triangle Generator
 A program that generates a sierpinski triangle recursively, using Turtle.
+Inspired by teaching science and maths at Forskerfabrikken to grades 3 to 4 and 5 to 6.
 
 ## How to run the program (recommended)
 
@@ -26,3 +27,4 @@ Cleanup: Remove the previous edge coordinate to prepare for the next triangle se
 Gradient Analysis: Evaluate the edge coordinates to determine if the gradient is negative, positive, or neutral.
 
 Conditional Rendering: Execute one of three conditional statements to draw the triangle based on the identified gradient, ensuring the fractal expands correctly in all directions.
+
